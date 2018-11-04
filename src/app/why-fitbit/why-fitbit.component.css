@@ -1,0 +1,30 @@
+/* #why-fitbit-container {
+    width: 960px;
+    height: 1565;
+} */
+
+.single-row {
+    height: 335px;
+}
+
+.why {
+    background-image: url("https://marketing.fitbit.com/images/home/home-modules/why-fitbit-bg-x2-23f3f9feadbab61bfb50f5442ee05b0b.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.why h3 {
+    font-size: 48px;
+    line-height: 50px;
+    margin-bottom: 12px;
+    color: white;
+}
+
+.why p {
+    font-size: 22px;
+    line-height: 28px;
+    color: white;
+}

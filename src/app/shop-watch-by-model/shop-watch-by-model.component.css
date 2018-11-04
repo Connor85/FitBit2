@@ -1,0 +1,31 @@
+.watch-container {
+    padding-top: 55px;
+    padding-bottom: 38px;
+}
+
+.watch-row {
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    height: 125px;
+}
+
+.watch {
+    display: inline-block;
+    margin: 0 25px;
+}
+
+.product-name {
+    position: static;
+    bottom: 0px;
+    font-size: 16px;
+    color: #102429;
+    font-family: 'Proxima Nova Regular', Arial, sans-serif;
+    width: auto;
+}
+
+a:hover {
+    cursor: pointer;
+}
