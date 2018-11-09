@@ -13,7 +13,9 @@ _This Angular web application is a rebuild of Fitbit's website. The application 
 1. The program is broken up into components.
 2. Rebuild the navigation bar withough any hover functionality.
 3. Add information that populates when the user hovers over a dropdown menu.
-4. Add the shop now component.
+4. Add the various comonents that complete the page.
+5. Add a sign in section.
+6. Add mock shopping section.
 
 ## Setup/Installation Requirements
 
