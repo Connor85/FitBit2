@@ -1,27 +1,50 @@
-# FitBitNew
+# Fitbit Rebuild
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+#### Fitbit Website Rebuild, Oct. 26, 2018
 
-## Development server
+#### By _**Conor McCarthy**_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+_This Angular web application is a rebuild of Fitbit's website. The application will focus on the home page and is deployed through firebase. View the deployed application here: https://fitbit-e04c6.firebaseapp.com/_
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Spec
 
-## Build
+1. The program is broken up into components.
+2. Rebuild the navigation bar withough any hover functionality.
+3. Add information that populates when the user hovers over a dropdown menu.
+4. Add the shop now component.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Setup/Installation Requirements
 
-## Running unit tests
+- Open file in your terminal
+- Clone the repository
+- Navigate to the file in your terminal and enter $ NPM Install
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Known Bugs
 
-## Running end-to-end tests
+_None._
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Support and contact details
 
-## Further help
+- connormaccarthy8@gmail.com\_
+- To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Technologies Used
+
+- JavaScript
+- NPM
+- Karma
+- Jasmine
+- GitHub
+- Angular
+- Bootstrap
+- Firebase
+
+### License
+
+Copyright (c) 2018 **_Connor McCarthy_**
