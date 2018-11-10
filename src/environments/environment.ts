@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: "AIzaSyDbHS9luo_GVRMjBOJb9Z8UABXFFz4lg8o",
+    authDomain: "fitbit-e04c6.firebaseapp.com",
+    databaseURL: "https://fitbit-e04c6.firebaseio.com",
+    projectId: "fitbit-e04c6",
+    storageBucket: "fitbit-e04c6.appspot.com",
+    messagingSenderId: "525537540611"
+  }
 };
 
 /*
